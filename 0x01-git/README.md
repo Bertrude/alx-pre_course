@@ -1,1 +1,1 @@
-My first days of coding at ALX
+Coding is fun, I'm acing my coding skills at ALX via the ALX SE Program
